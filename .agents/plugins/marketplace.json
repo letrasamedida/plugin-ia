@@ -1,0 +1,20 @@
+{
+  "name": "letrasamedida",
+  "interface": {
+    "displayName": "Letras a Medida"
+  },
+  "plugins": [
+    {
+      "name": "letras-a-medida",
+      "source": {
+        "source": "local",
+        "path": "./plugins/letras-a-medida"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "letras-a-medida": {
+      "type": "http",
+      "url": "https://mcp.letrasamedida.com/mcp"
+    }
+  }
+}

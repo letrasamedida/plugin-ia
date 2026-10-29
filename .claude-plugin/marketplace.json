@@ -1,0 +1,15 @@
+{
+  "name": "letrasamedida",
+  "description": "Plugins de Letras a Medida (letrasamedida.com)",
+  "owner": {
+    "name": "Letras a Medida",
+    "url": "https://letrasamedida.com"
+  },
+  "plugins": [
+    {
+      "name": "letras-a-medida",
+      "source": "./plugins/letras-a-medida",
+      "description": "Diseña un rótulo de letras corpóreas con Letras a Medida: catálogo real, precio de la tienda y enlace al Personalizador con el diseño cargado."
+    }
+  ]
+}
