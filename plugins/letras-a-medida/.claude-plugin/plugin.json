@@ -1,7 +1,7 @@
 {
   "name": "letras-a-medida",
   "displayName": "Letras a Medida",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Diseña un rótulo de letras corpóreas con Letras a Medida (letrasamedida.com): catálogo real del Personalizador, precio calculado por la tienda y enlace que abre el Personalizador con el diseño cargado. Solo lectura: la compra se hace en la web.",
   "author": {
     "name": "Letras a Medida",
