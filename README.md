@@ -53,7 +53,7 @@ plugins/letras-a-medida/
   .codex-plugin/plugin.json            manifiesto de Codex
   codex.mcp.json                       conector para Codex
   skills/disenar-rotulo/SKILL.md       el oficio, común a los dos
-  assets/                              icono y logo
+  assets/icono.png                     icono
 ```
 
 ## Privacidad

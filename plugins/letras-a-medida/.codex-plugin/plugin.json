@@ -1,13 +1,19 @@
 {
   "name": "letras-a-medida",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Diseña un rótulo de letras corpóreas con Letras a Medida (letrasamedida.com): catálogo real del Personalizador, precio calculado por la tienda y enlace que abre el Personalizador con el diseño cargado. Solo lectura: la compra se hace en la web.",
   "author": {
     "name": "Letras a Medida",
     "url": "https://letrasamedida.com"
   },
   "homepage": "https://letrasamedida.com/personalizador/",
-  "keywords": ["letras corpóreas", "rótulos", "letras decorativas", "personalizador", "RAL"],
+  "keywords": [
+    "letras corpóreas",
+    "rótulos",
+    "letras decorativas",
+    "personalizador",
+    "RAL"
+  ],
   "skills": "./skills/",
   "mcpServers": "./codex.mcp.json",
   "interface": {
@@ -16,10 +22,12 @@
     "longDescription": "Te ayuda a elegir material, tamaño, tipografía y color para un rótulo de letras corpóreas de Letras a Medida, te da el precio que calcula la propia tienda y te deja un enlace que abre el Personalizador con tu diseño cargado, donde lo revisas y lo compras.",
     "developerName": "Letras a Medida",
     "category": "Productivity",
-    "capabilities": ["Read"],
+    "capabilities": [
+      "Read"
+    ],
     "websiteURL": "https://letrasamedida.com/",
     "composerIcon": "./assets/icono.png",
-    "logo": "./assets/logo.png",
+    "logo": "./assets/icono.png",
     "defaultPrompt": [
       "Quiero un rótulo para la fachada de mi tienda, ¿qué me recomiendas?",
       "¿Cuánto cuesta «Café Lola» en PVC de 10 mm, 1,20 m de ancho, en rojo?"
